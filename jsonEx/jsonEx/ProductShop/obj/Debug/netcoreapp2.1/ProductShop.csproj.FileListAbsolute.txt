@@ -1,0 +1,16 @@
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\bin\Debug\netcoreapp2.1\Datasets\users.json
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\bin\Debug\netcoreapp2.1\Datasets\products.json
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories.json
+C:\Users\hapa_\Desktop\jsonEx\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories-products.json

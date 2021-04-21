@@ -1,0 +1,17 @@
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\bin\Debug\netcoreapp2.1\Datasets\suppliers.json
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\bin\Debug\netcoreapp2.1\Datasets\parts.json
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\bin\Debug\netcoreapp2.1\Datasets\cars.json
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\bin\Debug\netcoreapp2.1\Datasets\customers.json
+C:\Users\hapa_\Desktop\jsonEx\CarDealer\bin\Debug\netcoreapp2.1\Datasets\sales.json
