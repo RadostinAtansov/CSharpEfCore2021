@@ -1,0 +1,9 @@
+C:\Users\hapa_\Desktop\New folder\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.deps.json
+C:\Users\hapa_\Desktop\New folder\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\Users\hapa_\Desktop\New folder\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\Users\hapa_\Desktop\New folder\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csprojAssemblyReference.cache
+C:\Users\hapa_\Desktop\New folder\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfoInputs.cache
+C:\Users\hapa_\Desktop\New folder\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfo.cs
+C:\Users\hapa_\Desktop\New folder\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csproj.CoreCompileInputs.cache
+C:\Users\hapa_\Desktop\New folder\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\Users\hapa_\Desktop\New folder\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.pdb
