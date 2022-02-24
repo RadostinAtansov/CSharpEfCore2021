@@ -1,0 +1,10 @@
+C:\Users\radul\Desktop\MiniORM\bin\Debug\netcoreapp3.0\MiniORM.deps.json
+C:\Users\radul\Desktop\MiniORM\bin\Debug\netcoreapp3.0\MiniORM.dll
+C:\Users\radul\Desktop\MiniORM\bin\Debug\netcoreapp3.0\MiniORM.pdb
+C:\Users\radul\Desktop\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.csproj.AssemblyReference.cache
+C:\Users\radul\Desktop\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radul\Desktop\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\radul\Desktop\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.AssemblyInfo.cs
+C:\Users\radul\Desktop\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Users\radul\Desktop\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.dll
+C:\Users\radul\Desktop\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.pdb
